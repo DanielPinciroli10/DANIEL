@@ -1,0 +1,12 @@
+h1{
+    color: blue;
+}
+p{
+    color: #06be0f;
+}
+
+/*color a la etiqueta a*/
+a {
+    color: #c00909;
+    /*text-decoration: #9c0d0d;*/
+}
